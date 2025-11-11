@@ -1,0 +1,69 @@
+[2025-10-28 15:31:16] [::1] [User:1] Cierre de sesión
+[2025-10-30 00:26:32] [::1] [User:1] Login exitoso
+[2025-10-30 00:27:16] [::1] [User:1] Cierre de sesión
+[2025-10-30 00:43:13] [::1] [User:3] Nuevo registro: admin@gmail.com
+[2025-10-30 00:46:29] [::1] [User:3] Cierre de sesión
+[2025-10-30 00:46:33] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@gmail.com
+[2025-10-30 00:46:46] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@gmail.com
+[2025-10-30 00:47:20] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@gmail.com
+[2025-10-30 00:47:21] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@gmail.com
+[2025-10-30 00:47:30] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@gmail.com
+[2025-10-30 00:47:34] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@gmail.com
+[2025-10-30 00:56:41] [::1] [User:4] Nuevo registro: admin@gmail.com
+[2025-10-30 00:57:45] [::1] [User:4] Cierre de sesión
+[2025-10-30 00:57:51] [::1] [User:4] Login exitoso
+[2025-10-30 01:08:32] [::1] [User:4] Cierre de sesión
+[2025-10-30 01:08:44] [::1] [User:guest] Intento de login fallido - email no encontrado: admin@granitodearena.com
+[2025-10-30 01:08:51] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@gmail.com
+[2025-10-30 01:09:14] [::1] [User:guest] Intento de login fallido - email no encontrado: admin@tugranitodearena.com
+[2025-10-30 01:09:50] [::1] [User:5] Nuevo registro: admin@tugranitodearena.com
+[2025-10-30 01:09:58] [::1] [User:5] Cierre de sesión
+[2025-10-30 01:10:02] [::1] [User:5] Login exitoso
+[2025-10-30 01:10:53] [::1] [User:guest] Login administrador exitoso: admin@tugranitodearena.com
+[2025-10-30 01:12:26] [::1] [User:admin@tugranitodearena.com] Eliminado usuario ID: 4
+[2025-10-30 01:12:56] [::1] [User:5] Cierre de sesión
+[2025-10-30 01:13:01] [::1] [User:5] Login exitoso
+[2025-10-30 01:14:57] [::1] [User:5] Cierre de sesión
+[2025-10-30 01:16:38] [::1] [User:guest] Login administrador exitoso: admin@tugranitodearena.com
+[2025-10-30 01:16:43] [::1] [User:admin@tugranitodearena.com] Cierre de sesión administrativa
+[2025-10-30 01:16:48] [::1] [User:5] Login exitoso
+[2025-10-30 01:16:56] [::1] [User:5] Cierre de sesión
+[2025-10-30 01:21:35] [::1] [User:5] Login exitoso
+[2025-10-30 01:21:46] [::1] [User:5] Cierre de sesión
+[2025-10-30 01:30:43] [::1] [User:guest] Login administrador exitoso: admin@tugranitodearena.com
+[2025-10-30 01:31:03] [::1] [User:admin@tugranitodearena.com] Cierre de sesión administrativa
+[2025-10-30 01:31:07] [::1] [User:5] Login exitoso
+[2025-10-30 01:39:14] [::1] [User:5] Login exitoso
+[2025-10-30 01:43:36] [::1] [User:5] Cierre de sesión
+[2025-10-30 01:43:40] [::1] [User:5] Login exitoso
+[2025-10-30 01:47:47] [::1] [User:5] Login exitoso
+[2025-10-30 01:50:33] [::1] [User:5] Login exitoso
+[2025-10-30 01:52:10] [::1] [User:5] Login exitoso
+[2025-10-30 02:01:31] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@tugranitodearena.com
+[2025-10-30 02:02:06] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@tugranitodearena.com
+[2025-10-30 02:02:13] [::1] [User:guest] Intento de login fallido - contraseña incorrecta para: admin@tugranitodearena.com
+[2025-10-30 02:02:51] [::1] [User:guest] Intento de login fallido - email no encontrado: admin@tugranitodearena.com
+[2025-10-30 02:02:57] [::1] [User:guest] Intento de login fallido - email no encontrado: admin@tugranitodearena.com
+[2025-10-30 02:03:22] [::1] [User:guest] Intento de login fallido - email no encontrado: admin@tugranitodearena.com
+[2025-10-30 02:04:51] [::1] [User:guest] Intento de login administrativo fallido: admin@tugranitodearena.com
+[2025-10-30 02:04:56] [::1] [User:guest] Login administrador exitoso: admin@tugranitodearena.com
+[2025-10-30 02:10:10] [::1] [User:guest] Intento de login administrativo fallido: admin@tugranitodearena.com
+[2025-10-30 02:10:14] [::1] [User:guest] Intento de login administrativo fallido: admin@tugranitodearena.com
+[2025-10-30 02:10:15] [::1] [User:guest] Intento de login administrativo fallido: admin@tugranitodearena.com
+[2025-10-30 12:44:19] [::1] [User:guest] Intento de login administrativo fallido: admin@tugranitodearena.com
+[2025-10-30 12:54:40] [::1] [User:6] Nuevo registro: mateov@gmail.com
+[2025-10-30 12:54:53] [::1] [User:guest] Login administrador exitoso: admin@tugranitodearena.com
+[2025-10-30 13:23:51] [::1] [User:7] Nuevo registro: prueba@gmail.com
+[2025-10-30 14:16:59] [::1] [User:8] Nuevo registro: admin@tugranitodearena.com
+[2025-10-30 14:56:24] [::1] [User:guest] Nueva organización registrada: ONG buena
+[2025-10-30 15:42:00] [::1] [User:guest] Nueva organización registrada: PRUEBAong (pendiente de aprobación)
+[2025-10-30 15:43:59] [::1] [User:admin@tugranitodearena.com] Organización aprobada ID: 2
+[2025-10-30 16:15:20] [::1] [User:admin@tugranitodearena.com] Contraseña establecida para organización ID: 1
+[2025-10-31 18:01:08] [::1] [User:1] Nuevo registro voluntario: prueb@a.com
+[2025-10-31 19:47:10] [::1] [User:2] Nuevo registro voluntario: voluntario@prueba.com
+[2025-10-31 22:12:59] [::1] [User:3] Nuevo registro voluntario: admin@tugranitodearena.com
+[2025-10-31 22:25:34] [::1] [User:4] Nuevo registro voluntario: prueb@aa.com
+[2025-11-06 13:12:13] [::1] [User:3] Nueva organización registrada: ongggg
+[2025-11-06 13:31:22] [::1] [User:5] Nuevo registro voluntario: kate@gmail.com
+[2025-11-06 13:39:46] [::1] [User:admin@tugranitodearena.com] Eliminada experiencia ID: 3
+[2025-11-06 14:09:27] [::1] [User:6] Nuevo registro voluntario: pruebaconapellido@gmail.com
